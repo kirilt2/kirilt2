@@ -1,19 +1,14 @@
 <!--
   README.md – Kiril Tikhomirov
-  Fixed version for GitHub rendering
+  Final version: keeps icon, boxes, and only real languages/tools.
 -->
 
-<h1 align="center">👋 Hi, I'm Kiril Tikhomirov</h1>
-<p align="center">
-  Computer Science Student • Roblox & Web Developer • Cybersecurity Enthusiast • Discord Bot Creator
-</p>
+<!-- Profile Icon -->
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-<p align="center">
-  <a href="https://portfolio-websitev2.onrender.com/" target="_blank"><b>kiril.com</b></a>
-  •
-  <a href="https://github.com/kirilt2?tab=repositories" target="_blank">Repositories</a>
-</p>
-
+<!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kirilt2&style=for-the-badge" alt="Profile Views" />
   <a href="https://discord.com/users/1121696422526464073" target="_blank">
@@ -38,12 +33,8 @@
 
 ## 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,lua,html,css,react,git,nodejs" />
+  <img src="https://skillicons.dev/icons?i=js,python,lua,html,css,react" />
 </p>
-
-| Languages | Tools & Frameworks | Fields |
-|-----------|--------------------|--------|
-| JavaScript, Python, Lua | Git, Node.js, React | Web Dev, Roblox, Cybersecurity |
 
 ---
 
@@ -67,4 +58,9 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirilt2&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<!-- Keep your GitHub Streaks / Activity boxes -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirilt2&theme=tokyonight" alt="GitHub Streak" />
 </p>
