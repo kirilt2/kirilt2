@@ -22,22 +22,20 @@
 <h1 align="center"Yoo</h1>
 
 ###
-
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-I'm Kiril Tikhomirov from Israel.<br><br>
-- 🎓 Computer Science student<br>
-- 🔭 Building Discord bots, Roblox games, and custom automation tools<br>
-- 🌐 Developing websites and full-stack web applications<br>
-- 🎮 Creating indie games, scripts, and interactive projects<br>
-- 📚 Currently learning JavaScript, React & Backend basics<br>
-- 🐍 Using Python for bots, automation & data analysis<br>
-- ⚡ Exploring Lua (Roblox scripting), web dev, and cybersecurity<br>
-- 🛠️ Passionate about open-source projects, programming challenges & creative coding<br>
-- 🚀 Always experimenting with new technologies, frameworks & ideas<br><br>
+I'm Kiril Tikhomirov from Israel. I'm 15 years old.<br><br>
+🎓 Computer Science student<br>
+🔭 Building Discord bots, Roblox games, and custom automation tools<br>
+🌐 Developing websites and full-stack web applications<br>
+🎮 Creating indie games, scripts, and interactive projects<br>
+📚 Currently learning JavaScript, React & Backend basics<br>
+🐍 Using Python for bots, automation & data analysis<br>
+⚡ Exploring Lua (Roblox scripting), web dev, and cybersecurity<br>
+🛠️ Passionate about open-source projects, programming challenges & creative coding<br>
+🚀 Always experimenting with new technologies, frameworks & ideas<br><br>
 🌍 Portfolio: <a href="https://portfolio-websitev2.onrender.com/" target="_blank">kiril.com</a>
 </p>
-
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
