@@ -1,11 +1,8 @@
-<!--
-  README.md – Kiril Tikhomirov
-  Final version: keeps icon, boxes, and only real languages/tools.
--->
+
 
 <!-- Profile Icon -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://cdn.discordapp.com/attachments/1218489615552479263/1420798072627265607/140178026.png?ex=68d6b4d1&is=68d56351&hm=7413bda919027acfcd22bdb78910e26793343c6b01c9de7ea2b6eed871f2fcdf&" />
 </div>
 
 <!-- Badges -->
