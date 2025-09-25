@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="c1ff684b6db45ac6a1bfed21cb1e211f.png" alt="profile icon" />
 </div>
 
 ###
@@ -22,15 +22,15 @@
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
 <p align="left">
 I'm Kiril Tikhomirov from Israel.<br><br>
-- 🎓 I’m a Computer Science student<br>
-- 🔭 I’m working on Discord bots & Roblox games<br>
-- 📚 I'm currently learning JavaScript, TypeScript & Backend systems<br>
+- 🎓 Computer Science student<br>
+- 🔭 Working on Discord bots & Roblox games<br>
+- 📚 Learning JavaScript, TypeScript & Backend systems<br>
 - 🐍 Strong with Python (bots, automation, experiments)<br>
 - 🔒 Interested in Cybersecurity, Networking & IoT tinkering<br>
 - ⚡ In my free time I play games, code, and explore ethical hacking tools
@@ -70,4 +70,7 @@ I'm Kiril Tikhomirov from Israel.<br><br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kirilt2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kirilt2&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirilt2&layout=compact&theme=dracula" height="150" alt="langs graph" />
 </div>
