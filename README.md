@@ -24,17 +24,18 @@
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
-
 <p align="left">
 I'm Kiril Tikhomirov from Israel.<br><br>
 - 🎓 Computer Science student<br>
-- 🔭 Working on Discord bots & Roblox games<br>
+- 🔭 Building Discord bots, Roblox games, and custom automation tools<br>
+- 🌐 Developing websites and full-stack web applications<br>
+- 🎮 Creating indie games, scripts, and interactive projects<br>
 - 📚 Currently learning JavaScript, React & Backend basics<br>
-- 🐍 Using Python for bots & automation<br>
-- ⚡ Love exploring Lua (Roblox scripting), web dev, and cybersecurity
+- 🐍 Using Python for bots, automation & data analysis<br>
+- ⚡ Exploring Lua (Roblox scripting), web dev, and cybersecurity<br>
+- 🛠️ Passionate about open-source projects, programming challenges & creative coding<br>
+- 🚀 Always experimenting with new technologies, frameworks & ideas
 </p>
-
-###
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
