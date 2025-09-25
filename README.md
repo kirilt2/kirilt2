@@ -1,5 +1,3 @@
-
-
 <!-- Profile Icon -->
 <div align="center">
   <img height="150" src="https://cdn.discordapp.com/attachments/1218489615552479263/1420798072627265607/140178026.png?ex=68d6b4d1&is=68d56351&hm=7413bda919027acfcd22bdb78910e26793343c6b01c9de7ea2b6eed871f2fcdf&" />
@@ -49,15 +47,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Box Style)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirilt2&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirilt2&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirilt2&theme=tokyonight" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirilt2&theme=tokyonight&utcOffset=3" alt="Commit Times" />
 </p>
 
-<!-- Keep your GitHub Streaks / Activity boxes -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirilt2&theme=tokyonight" alt="Most Used Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirilt2&theme=tokyonight" alt="Most Commit Languages" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirilt2&theme=tokyonight" alt="Profile Details" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirilt2&theme=tokyonight" alt="GitHub Streak" />
 </p>
