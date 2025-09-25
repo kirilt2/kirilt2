@@ -34,8 +34,10 @@ I'm Kiril Tikhomirov from Israel.<br><br>
 - 🐍 Using Python for bots, automation & data analysis<br>
 - ⚡ Exploring Lua (Roblox scripting), web dev, and cybersecurity<br>
 - 🛠️ Passionate about open-source projects, programming challenges & creative coding<br>
-- 🚀 Always experimenting with new technologies, frameworks & ideas
+- 🚀 Always experimenting with new technologies, frameworks & ideas<br><br>
+🌍 Portfolio: <a href="https://portfolio-websitev2.onrender.com/" target="_blank">kiril.com</a>
 </p>
+
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
