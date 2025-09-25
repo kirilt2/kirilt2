@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://cdn.discordapp.com/avatars/1121696422526464073/c1ff684b6db45ac6a1bfed21cb1e211f.png?size=4096"  />
 </div>
 
 ###
@@ -8,12 +8,7 @@
   <a href="https://discord.com/users/1121696422526464073" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
+ 
 </div>
 
 ###
@@ -24,7 +19,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center"Yoo</h1>
 
 ###
 
