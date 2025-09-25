@@ -1,65 +1,70 @@
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1218489615552479263/1420798072627265607/140178026.png?ex=68d6b4d1&is=68d56351&hm=7413bda919027acfcd22bdb78910e26793343c6b01c9de7ea2b6eed871f2fcdf&"  />
-</div>
+<!--
+  README.md – Kiril Tikhomirov
+  Fixed version for GitHub rendering
+-->
 
-###
-
-<div align="center">
-  <a href="https://discord.com/users/1121696422526464073" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
- 
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kirilt2.kirilt2&" />
-</div>
-
-###
-
-<h1 align="center"Yoo</h1>
-
-###
-<h3 align="left">👨‍💻 About Me</h3>
-<p align="left">
-I'm Kiril Tikhomirov from Israel. I'm 15 years old.<br><br>
-🎓 Computer Science student<br>
-🔭 Building Discord bots, Roblox games, and custom automation tools<br>
-🌐 Developing websites and full-stack web applications<br>
-🎮 Creating indie games, scripts, and interactive projects<br>
-📚 Currently learning JavaScript, React & Backend basics<br>
-🐍 Using Python for bots, automation & data analysis<br>
-⚡ Exploring Lua (Roblox scripting), web dev, and cybersecurity<br>
-🛠️ Passionate about open-source projects, programming challenges & creative coding<br>
-🚀 Always experimenting with new technologies, frameworks & ideas<br><br>
-🌍 Portfolio: <a href="https://portfolio-websitev2.onrender.com/" target="_blank">kiril.com</a>
+<h1 align="center">👋 Hi, I'm Kiril Tikhomirov</h1>
+<p align="center">
+  Computer Science Student • Roblox & Web Developer • Cybersecurity Enthusiast • Discord Bot Creator
 </p>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<p align="center">
+  <a href="https://portfolio-websitev2.onrender.com/" target="_blank"><b>kiril.com</b></a>
+  •
+  <a href="https://github.com/kirilt2?tab=repositories" target="_blank">Repositories</a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kirilt2&style=for-the-badge" alt="Profile Views" />
+  <a href="https://discord.com/users/1121696422526464073" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Contact-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+  </a>
+</p>
 
-###
+---
 
-<h3 align="left">🔥 My Stats</h3>
+## 📌 About Me
+- 🎓 15-year-old Computer Science student from Israel  
+- 🤖 Building **Discord bots**, **Roblox games**, and custom automation tools  
+- 🌐 Developing **websites** and **full-stack web applications**  
+- 🎮 Creating **indie games**, **scripts**, and **interactive projects**  
+- 📚 Currently learning **JavaScript, React & Backend basics**  
+- 🐍 Using **Python** for bots, automation & data analysis  
+- ⚡ Exploring **Lua (Roblox scripting)**, **web dev**, and **cybersecurity**  
+- 🚀 Passionate about **open-source projects**, **programming challenges** & **creative coding**  
+- 🌍 Portfolio: [kiril.com](https://portfolio-websitev2.onrender.com/)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kirilt2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kirilt2&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirilt2&layout=compact&theme=dracula" height="150" alt="langs graph" />
-</div>
+---
+
+## 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,lua,html,css,react,git,nodejs" />
+</p>
+
+| Languages | Tools & Frameworks | Fields |
+|-----------|--------------------|--------|
+| JavaScript, Python, Lua | Git, Node.js, React | Web Dev, Roblox, Cybersecurity |
+
+---
+
+## 🚀 Featured Projects
+- [**Discord XP Bot**](https://github.com/kirilt2/Discord-XP-Bot) – A Discord bot with leveling & XP system  
+- [**Roblox Game Project**](#) – Simulator / Obby style Roblox game with progression system  
+- [**Portfolio Website**](https://portfolio-websitev2.onrender.com/) – My personal portfolio website  
+
+---
+
+## 🔭 What I'm Working On
+- Developing a new **Roblox progression game**  
+- Learning **React & backend development**  
+- Building **automation tools in Python**  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirilt2&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirilt2&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
