@@ -34,8 +34,7 @@
 ---
 
 ## 🚀 Featured Projects
-- [**Discord XP Bot**](https://github.com/kirilt2/Discord-XP-Bot) – A Discord bot with leveling & XP system  
-- [**Roblox Game Project**](#) – Simulator / Obby style Roblox game with progression system  
+- [**Roblox Game Project**](https://www.roblox.com/games/89013915419327/Rate-And-Donate) - "Rate and donate"
 - [**Portfolio Website**](https://portfolio-websitev2.onrender.com/) – My personal portfolio website  
 
 ---
@@ -47,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats (Box Style)
+## 📊 GitHub Stats
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirilt2&theme=tokyonight" alt="GitHub Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirilt2&theme=tokyonight&utcOffset=3" alt="Commit Times" />
